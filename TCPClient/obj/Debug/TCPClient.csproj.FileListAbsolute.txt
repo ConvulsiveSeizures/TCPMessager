@@ -1,0 +1,6 @@
+C:\Users\Rakuzan\Desktop\C#\TCPMessager\TCPClient\bin\Debug\TCPClient.exe.config
+C:\Users\Rakuzan\Desktop\C#\TCPMessager\TCPClient\bin\Debug\TCPClient.exe
+C:\Users\Rakuzan\Desktop\C#\TCPMessager\TCPClient\bin\Debug\TCPClient.pdb
+C:\Users\Rakuzan\Desktop\C#\TCPMessager\TCPClient\obj\Debug\TCPClient.csproj.CoreCompileInputs.cache
+C:\Users\Rakuzan\Desktop\C#\TCPMessager\TCPClient\obj\Debug\TCPClient.exe
+C:\Users\Rakuzan\Desktop\C#\TCPMessager\TCPClient\obj\Debug\TCPClient.pdb

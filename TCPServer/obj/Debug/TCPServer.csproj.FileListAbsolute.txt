@@ -1,0 +1,6 @@
+C:\Users\Rakuzan\Desktop\C#\TCPMessager\TCPServer\bin\Debug\TCPServer.exe.config
+C:\Users\Rakuzan\Desktop\C#\TCPMessager\TCPServer\bin\Debug\TCPServer.exe
+C:\Users\Rakuzan\Desktop\C#\TCPMessager\TCPServer\bin\Debug\TCPServer.pdb
+C:\Users\Rakuzan\Desktop\C#\TCPMessager\TCPServer\obj\Debug\TCPServer.csproj.CoreCompileInputs.cache
+C:\Users\Rakuzan\Desktop\C#\TCPMessager\TCPServer\obj\Debug\TCPServer.exe
+C:\Users\Rakuzan\Desktop\C#\TCPMessager\TCPServer\obj\Debug\TCPServer.pdb
